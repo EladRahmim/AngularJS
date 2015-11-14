@@ -1,0 +1,9 @@
+{
+  "name": "Teaching AngularJS",
+  "version": "",
+  "devDependencies": {
+    "angular": "~1.2",
+    "bootstrap": "*"
+  },
+  "dependencies": {}
+}
